@@ -86,8 +86,10 @@ reset
  
 #terminar sesión de terminal local o remoto (ssh) y finalizar procesos iniciados
 exit
-GESTIÓN DE RECURSOS
+```
 
+### GESTIÓN DE RECURSOS
+```
 #mostrar tareas ejecutandose y su uso de recursos 
 top
  
