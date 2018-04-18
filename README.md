@@ -1,6 +1,6 @@
 # linux-commands
 
-FUENTE ORIGINAL: https://www.luisllamas.es/listado-comandos-linux-utiles/
+Texto original de Luis Llamas (fuente: https://www.luisllamas.es/listado-comandos-linux-utiles/)
 
 ## CONTROL DE PROCESOS Y TRABAJOS
 
